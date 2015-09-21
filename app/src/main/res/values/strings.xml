@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="action_sort">Sort</string>
+    <string name="action_share">Share</string>
+
+    <string name="main_sort_by">Sort by</string>
+    <string name="main_sort_most_popular">Most popular</string>
+    <string name="main_sort_highest_rated">Highest rated</string>
+    <string name="main_sort_favorites">Favorites</string>
+    <string name="main_no_favorites">No favorites</string>
+    <string name="main_add_to_fav">Add to favorite</string>
+    <string name="main_remove_from_fav">Unfavorite</string>
+
+    <string name="progress_error">Error</string>
+    <string name="progress_retry">Try Again</string>
+
+    <string name="detail_reviews">REVIEWS</string>
+    <string name="detail_videos">VIDEOS</string>
+    <string name="detail_no_reviews">NO REVIEW YET</string>
+    <string name="detail_no_videos">NO VIDEO YET</string>
+
+</resources>
