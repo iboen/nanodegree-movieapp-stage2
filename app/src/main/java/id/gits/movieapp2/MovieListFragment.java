@@ -177,6 +177,14 @@ public class MovieListFragment extends Fragment {
     }
 
     @Override
+    public void onResume() {
+        super.onResume();
+        if (mSort == 2) {
+            queryFavoritesData();
+        }
+    }
+
+    @Override
     public void onAttach(Activity activity) {
         super.onAttach(activity);
 
